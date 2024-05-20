@@ -2,3 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+.message {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.message.self-end {
+  align-items: flex-end;
+}
+
+.input {
+  transition: border 0.3s ease;
+}
+
+.btn {
+  transition: background-color 0.3s ease;
+}
