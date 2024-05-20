@@ -18,9 +18,14 @@ features/Socket & features/Socket
 
 # Socket 
 
-Pour démarrer le server backend node server.js
-Pour démarrer le front node run start
+Pour démarrer le server backend ``node server.js``
+Pour démarrer le front ``node run start``
 
 # Django
 
 Démarrer le server backend : `` python3 manage.py runserver `` 
+Pour démarrer le front ``node run start``
+
+
+# Temps
+2H20
